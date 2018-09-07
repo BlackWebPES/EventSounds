@@ -129,5 +129,4 @@ class SoundHandler{
 		}
 		return $this->sound = $sound;
 	}
-} 
-
+}
