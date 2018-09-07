@@ -6,23 +6,23 @@ ConfigVersion: 2
 # At the heardby : 1 = Event caller (single player). 2 = Everyone except the caller. 3 = All the players
 
 PlayerLoginEvent:
-  sound: 0
+  sound: 3
   heardby: 3
 PlayerJoinEvent:
-  sound: 2
+  sound: 3
   heardby: 3
 PlayerQuitEvent:
-  sound: 2
+  sound: 3
   heardby: 3
 PlayerChatEvent:
-  sound: 10
-  heardby: 2
+  sound: 3
+  heardby: 3
 PlayerDeathEvent:
-  sound: 17
+  sound: 3
   heardby: 3
 PlayerGameModeChangeEvent:
   sound: 3
-  heardby: 2
+  heardby: 3
 PlayerTransferEvent:
-  sound: 19
-  heardby: 2
+  sound: 3
+  heardby: 3
